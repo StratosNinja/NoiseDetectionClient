@@ -1,5 +1,5 @@
 # NoiseDetectionClient
-This is a cross-platform Electron menu app that processes audio stream from the computer. When the volume exceeds the decibel level set by the user, the app sends a web request to an HTTP endpoint.
+This is a cross-platform Electron menu app that processes audio stream from the computer. When the volume exceeds the decibel level set by the user, the app sends a web request to an HTTP endpoint!
 
 ### For development
 
